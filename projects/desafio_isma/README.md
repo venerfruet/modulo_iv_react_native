@@ -35,5 +35,6 @@
   - Add código nativo no AndroidManifest.xml para abrir link
 - Desafio do professor
   - Emular histórico do GitHub transmitindo uma mensagem
-  - Altera a mensagem do emulador ao toque
+- Meu desafio
+  - Alterar a mensagem do emulador ao tocar nele
  
