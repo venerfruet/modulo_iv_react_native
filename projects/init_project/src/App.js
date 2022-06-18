@@ -66,9 +66,6 @@ const style=StyleSheet.create({
       borderColor:'yellow',
       borderWidth:2,
    },
-   defaultText:{
-      color:colorFontGitHub
-   },
    name:{
       fontSize:24,
       fontWeight:'bold',
@@ -88,6 +85,9 @@ const style=StyleSheet.create({
       borderRadius:10,
       padding:20,
       marginTop:20
+   },
+   defaultText:{
+      color:colorFontGitHub
    },
    textButton:{
       fontWeight:'bold',
